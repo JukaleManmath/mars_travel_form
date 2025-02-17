@@ -53,12 +53,13 @@ mars_travel_form/
 │   │   ├── TravelPreferences.jsx
 │   │   ├── HealthSafety.jsx
 │   │   ├── Confirmation.jsx
-│   │   ├── Footer.jsx
+│   ├── img/
+│   │   ├── mars.jpg   
 │   ├── App.jsx
+│   ├── main.jsx
 │── public/
 │── index.html
 │── package.json
-│── tailwind.config.js
 │── vite.config.js
 │── README.md
 ```

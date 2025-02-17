@@ -91,6 +91,5 @@ This project is licensed under the **MIT License**.
 
 ## 📩 Contact
 
-👤 **Manmath Jukale**  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+👤 **Manmath Jukale**   
 🔗 GitHub: [JukaleManmath](https://github.com/JukaleManmath)  
